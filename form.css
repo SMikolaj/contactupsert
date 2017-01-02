@@ -1,0 +1,30 @@
+<style type="text/css">
+#wrapper{background-color:#ffffff; width:774px; height:415px; border-radius:5px; margin:0;}
+#email{position:relative;height:40px;width:774px;outline:none;margin-left:0px; display:block; top:13px; border-radius:5px;}
+#name{position:relative;height:40px;width:774px;outline:none;margin-left:0px; display:block; top:5px; border-radius:5px;}
+#phone{position:relative;height:40px;width:774px;outline:none;margin-left:0px; display:block; top:20px; border-radius:5px;}
+#plik{position:relative;height:40px;width:774px;outline:none;margin-left:0px; display:block; top:30px; border-radius:5px;}
+#message{position:relative;height:180px;width:774px;outline:none;margin-left:0px; display:block; top:27px; border-radius:5px; text-indent: 10px; padding-top: 10px;}
+#submit{
+	background-color: #710a4e;
+    color: #FFFFFF;
+	font-weight: 600;
+    font-size: 1.4rem;
+    padding: 20px 50px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+	margin-top: 35px;
+	}
+#submit:hover {
+background-color: #fff;
+color: #710a4e;
+}
+#left{width:340px;float:left;}
+#right{width:100%; height:130px; background-color:#710a4e; margin-top:20px;}
+input:-moz-placeholder {  color: #83969f; font-size:14px; font-family:'Open Sans',sans-serif !important; text-align:left; margin:0; padding:0; font-weight:100;}
+input::-webkit-input-placeholder {  color: #83969f;  font-size:14px; font-family:'Open Sans',sans-serif !important; text-align:left; margin:0; padding:0;  font-weight:100;}
+::-moz-placeholder{  color: #83969f;  font-size:14px; font-family:'Open Sans',sans-serif !important; text-align:left; margin:0; padding:0;  font-weight:100;}
+input.text{font-size:16px; padding:0 0 0 10px; color: #000000;}
+input{color: #000000;}
+input[type="text"]{color:#000000; text-indent:10px;}
+</style>
